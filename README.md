@@ -1,6 +1,6 @@
 # Emotion Dataset for Emotion Recognition Tasks using BERT
 
-![Uploading image.png…]()
+![image](https://github.com/areegtarek/Emotion-Dataset-for-Emotion-Recognition-Tasks/assets/46351336/20c2f34b-ed71-4e5e-8463-ebb21407e90a)
 
 
 A dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. For more detailed information please refer to the paper below.
@@ -11,7 +11,7 @@ Homepage: https://github.com/dair-ai/emotion_dataset
 Paper: CARER: Contextualized Affect Representations for Emotion Recognition
 An example of 'train' looks as follows.
 
-  {
-    "label": 0,
-    "text": "im feeling quite sad and sorry for myself but ill snap out of it soon"
-  }
+          {
+            "label": 0,
+            "text": "im feeling quite sad and sorry for myself but ill snap out of it soon"
+          }
