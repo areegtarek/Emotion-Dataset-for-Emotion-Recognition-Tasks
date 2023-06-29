@@ -1,4 +1,4 @@
-# Emotion Dataset for Emotion Recognition Tasks using BERT
+# Emotion Recognition Tasks using BERT
 
 ![image](https://github.com/areegtarek/Emotion-Dataset-for-Emotion-Recognition-Tasks/assets/46351336/20c2f34b-ed71-4e5e-8463-ebb21407e90a)
 
